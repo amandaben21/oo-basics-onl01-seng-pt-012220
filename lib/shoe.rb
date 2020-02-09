@@ -10,7 +10,8 @@ def cobble
  puts  "Your shoe is as good as new!"
  end
 
-attr_accessor
+attr_accessor :condition_new
+end
 
  
  
