@@ -9,7 +9,8 @@ def cobble
   condition = "old"
  puts  "Your shoe is as good as new!"
  end
-end 
+
+attr_accessor
 
  
  
